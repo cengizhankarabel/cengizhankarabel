@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Cengizhan Karabel 
 <!-- 
  -->
-- 💻 I am a full-stack java developer at Revature
+- 💻 I am a full-stack java developer at Infosys
 - 💬 Ask me about everything
 - ---
 - 📫 How to reach me: 
